@@ -1,4 +1,4 @@
 # pizzahouse
-projet pizzahouse
-frontend: yarn serve ou yarn serve --fix
-backend: python manage.py runserver
+projet pizzahouse<br/>
+frontend: yarn serve ou yarn serve --fix<br/>
+backend: python manage.py runserver<br/>
